@@ -9,6 +9,9 @@
 *.userosscache
 *.sln.docstates
 
+#datase file 
+!mange.bak
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
